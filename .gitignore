@@ -2,4 +2,5 @@ config.h
 st
 st-0.5-no-bold-colors.diff
 st.o
+st-solarized-dark.diff
 
